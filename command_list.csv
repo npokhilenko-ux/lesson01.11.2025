@@ -1,0 +1,77 @@
+    1  ls
+    2  clear
+    3  cd
+    4  cd /users/
+    5  man cd
+    6  clear
+    7  ls
+    8  clear
+    9  cd /users/<username>/Documents
+   10  cd desktop
+   11  help
+   12  clear
+   13  ls
+   14  cd /GOIT
+   15  cd ~desktop /GOIT
+   16  cd GOIT
+   17  touch file.txt
+   18  touch nexttime.txt
+   19  rm file.txt
+   20  nano nexttime.txt
+   21  nano nexttime.txt
+   22  rm nexttime.txt
+   23  mkdir NOVA
+   24  touch nova1
+   25  rm nova1
+   26  touch nova1.txt
+   27  cp nova1.txt NOVA
+   28  rm NOVA
+   29  clear
+   30  git config --global user.name "Natalia Pokhylenko"
+   31  git config --global user.email n.pokhilenko@gmail.com
+   32  git clone https://github.com/npokhilenko-ux/lesson01.11.2025.git
+   33  git status
+   34  cd lesson01.11.2025
+   35  touch new.txt
+   36  git status
+   37  git add new.txt
+   38  git status
+   39  git commit -m new file created
+   40  git commit
+   41  git commit -m "new file created"
+   42  touch 555.txt
+   43  git config
+   44  git status
+   45  git edd 555.txt
+   46  git add 555.txt
+   47  git status
+   48  git commit -m "created new file"
+   49  git status
+   50   git log
+   51  git branch
+   52  git checkout -b new_branch
+   53  git branch
+   54  git checkout main
+   55  git branch
+   56  git checkout new_branch
+   57  nano new.txt
+   58  git status
+   59  git commit -m "new modifide"
+   60  git status
+   61  git branch
+   62  git checkout main
+   63  git merge new_branch
+   64  git branch
+   65  git status
+   66  git commit -m "nnnn"
+   67  git checkout new_branch
+   68  git merge main
+   69  git status
+   70  git checkout main
+   71  git status
+   72  git commit -m "nnjjjj"
+   73  add new.txt
+   74  git add new.txt
+   75  git commit -m "nnjjjjkk"
+   76  git pus
+   77  history > command_list.csv
